@@ -563,7 +563,6 @@
 
 
 def sum():
-    arr = [2,5,6,7,8,9,2,2]
     for i in arr:
        print(i)
 
