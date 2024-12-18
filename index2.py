@@ -49,7 +49,7 @@ async def cmd_movie(message: Message):
 # Словарь с треками для каждого жанра
 music_library = {
     "Поп": [
-        "Dua Lipa - Levitating",
+        "Dua Lipa - Levitating ffff",
         "The Weeknd - Blinding Lights",
         "Ava Max - Sweet but Psycho",
         "Ed Sheeran - Shivers",
